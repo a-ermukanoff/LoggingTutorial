@@ -1,0 +1,10 @@
+test_div 2024-02-13 09:38:14,898 INFO Testing the custom logger for module test_div...
+test_div 2024-02-13 09:38:14,901 INFO x/y successful with result: 0.4.
+test_div 2024-02-13 09:38:14,902 INFO x/y successful with result: 0.42857142857142855.
+test_div 2024-02-13 09:38:14,902 INFO x/y successful with result: 0.6.
+test_div 2024-02-13 09:38:14,903 ERROR ZeroDivisionError
+Traceback (most recent call last):
+  File "{there was path to test_div.py}\test_div.py", line 20, in test_division
+    x / y
+ZeroDivisionError: division by zero
+test_div 2024-02-13 09:38:14,904 INFO x/y successful with result: 10.0.

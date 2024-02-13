@@ -1,0 +1,11 @@
+__main__ 2024-02-13 09:38:14,901 INFO Testing the custom logger for module __main__...
+__main__ 2024-02-13 09:38:14,901 INFO The values of x and y are 2 and 5.
+__main__ 2024-02-13 09:38:14,901 INFO Call test_division with args 2 and 5
+__main__ 2024-02-13 09:38:14,902 INFO The values of x and y are 3 and 7.
+__main__ 2024-02-13 09:38:14,902 INFO Call test_division with args 3 and 7
+__main__ 2024-02-13 09:38:14,902 INFO The values of x and y are 6 and 10.
+__main__ 2024-02-13 09:38:14,902 INFO Call test_division with args 6 and 10
+__main__ 2024-02-13 09:38:14,903 INFO The values of x and y are 4 and 0.
+__main__ 2024-02-13 09:38:14,904 INFO Call test_division with args 4 and 0
+__main__ 2024-02-13 09:38:14,904 INFO The values of x and y are 10 and 1.
+__main__ 2024-02-13 09:38:14,904 INFO Call test_division with args 10 and 1
