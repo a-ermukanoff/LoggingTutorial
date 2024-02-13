@@ -1,2 +1,6 @@
-2024-02-13 08:51:27,966 INFO The values of x and y are 3 and 4.
-2024-02-13 08:51:27,966 INFO x/y successful with result: 0.75.
+2024-02-13 08:54:02,219 INFO The values of x and y are 3 and 0.
+2024-02-13 08:54:02,220 ERROR ZeroDivisionError
+Traceback (most recent call last):
+  File "{There was path to main.py}\main.py", line 11, in <module>
+    x/y
+ZeroDivisionError: division by zero
